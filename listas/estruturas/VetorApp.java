@@ -1,7 +1,7 @@
 package estruturas;
 import java.util.Arrays;
 import java.util.Scanner;
-
+//exercicios - listas, vetores e iteradores
 class Vetor {
     private int[] vetor;
     private int capacidade;
